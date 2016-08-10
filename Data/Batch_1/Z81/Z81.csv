@@ -1,0 +1,14 @@
+,site_info,,,,,,,,,,,,,,,,,,,,,
+site_id,Z81,,,,,,,,,,,,,,,,,,,,,
+site_name,upper Zavkhan basalt flow,,,,,,,,,,,,,,,,,,,,,
+site_lat,46.71836,(_N),,,,,,,,,,,,,,,,,,,,
+site_long,96.05807,(_E),,,,,,Sun Compass Information,,,,,,,,,Calculated Fields,,,,,
+site_elevation,2500,,,,,,,,,,,,,,,,,,,,,
+sample_name,comment,strat_level,magnetic_core_strike,core_dip,bedding_strike,bedding_dip,correct_bedding_using_local_dec,shadow_angle,GMT_offset,year,month,days,hours,minutes,mass,runs,sun_core_strike,calculated_IGRF,IGRF_local_dec,calculated_mag_dec,core_strike,corrected_bedding_strike
+.1a,sun compass orientation,747.7,149,38.0,129.8,38.2,yes,202,8,2014,6,5,11,45,,nan,150.2,[0.39991451156321223; 67.364860705399309; 58580.6247630547],0.399914511563,1.2,150.2,130.2
+.2a,sun compass orientation,747.7,145,36.0,129.8,38.2,yes,197,8,2014,6,5,11,46,,nan,145.6,[0.39991445704419087; 67.364860829624604; 58580.624816958887],0.399914457044,0.6,145.6,130.2
+.3a,sun compass orientation,747.9,137,41.0,129.8,38.2,yes,188,8,2014,6,5,11,48,,nan,137.3,[0.39991434800615977; 67.364861078075094; 58580.624924767217],0.399914348006,0.3,137.3,130.2
+.5a,sun compass orientation,747.9,112,24.0,129.8,38.2,yes,161,8,2014,6,5,11,56,,nan,113.2,[0.39991391185399328; 67.364862071877226; 58580.625356000499],0.399913911854,1.2,113.2,130.2
+.6a,sun compass orientation,478.4,127,36.0,129.8,38.2,yes,173,8,2014,6,5,12,2,,nan,127.5,[0.39991358473984584; 67.364862817228783; 58580.625679425459],0.39991358474,0.5,127.5,130.2
+.7a,sun compass orientation,478.6,96,34.0,129.8,38.2,yes,142,8,2014,6,5,12,5,,nan,97.6,[0.39991342118277529; 67.36486318990454; 58580.62584113796],0.399913421183,1.6,97.6,130.2
+.8a,sun compass orientation,748.7,129,43.0,129.8,38.2,yes,174,8,2014,6,5,12,8,,nan,130.8,[0.39991325762569296; 67.364863562580339; 58580.62600285044],0.399913257626,1.8,130.8,130.2

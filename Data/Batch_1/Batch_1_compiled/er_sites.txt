@@ -1,0 +1,30 @@
+tab 	er_sites
+er_citation_names	er_location_name	er_site_name	site_lat	site_lon
+This study	unknown	Z59	46.7	96.1
+This study	unknown	Z64	46.7	96.1
+This study	unknown	Z65	46.7	96.1
+This study	unknown	Z66	46.7	96.1
+This study	unknown	Z70	46.7	96.1
+This study	unknown	Z71	46.7	96.1
+This study	unknown	Z72	46.7	96.1
+This study	unknown	Z73	46.7	96.1
+This study	unknown	Z74	46.7	96.1
+This study	unknown	Z76	46.7	96.1
+This study	unknown	Z77	46.7	96.1
+This study	unknown	Z78	46.7	96.1
+This study	unknown	Z79	46.7	96.1
+This study	unknown	Z80	46.7	96.1
+This study	unknown	Z81	46.7	96.1
+This study	unknown	Z82	46.7	96.1
+This study	unknown	Z83	46.7	96.1
+This study	unknown	Z84	46.7	96.1
+This study	unknown	Z85	46.7	96.1
+This study	unknown	Z87	46.7	96.1
+This study	unknown	Z88	46.7	96.1
+This study	unknown	Z89	46.7	96.1
+This study	unknown	Z90	46.7	96.1
+This study	unknown	Z91	46.7	96.1
+This study	unknown	Z92	46.7	96.1
+This study	unknown	Z93	46.7	96.1
+This study	unknown	Z94	46.7	96.1
+This study	unknown	Z95	46.7	96.1

@@ -1,0 +1,10 @@
+tab 	er_samples
+er_citation_names	er_location_name	er_sample_name	er_site_name	magic_method_codes	sample_azimuth	sample_bed_dip	sample_bed_dip_direction	sample_class	sample_declination_correction	sample_dip	sample_height	sample_lithology	sample_type
+This study	unknown	Z70.1	Z70	SO-CMD-NORTH	305.5	120.4	103.0		0.0	-110.5	0		
+This study	unknown	Z70.2	Z70	SO-CMD-NORTH	306.3	120.4	167.0		0.0	-59.3	0		
+This study	unknown	Z70.3	Z70	SO-CMD-NORTH	306.5	120.4	154.0		0.0	-48.0	0		
+This study	unknown	Z70.4	Z70	SO-CMD-NORTH	306.4	120.4	121.0		0.0	-302.1	0		
+This study	unknown	Z70.5	Z70	SO-CMD-NORTH	306.6	120.4	144.0		0.0	-319.3	0		
+This study	unknown	Z70.6	Z70	SO-CMD-NORTH	307.0	120.4	152.0		0.0	-81.3	0		
+This study	unknown	Z70.7	Z70	SO-CMD-NORTH	307.5	120.4	141.0		0.0	-113.3	0		
+This study	unknown	Z70.8	Z70	SO-CMD-NORTH	307.7	120.4	123.0		0.0	-139.3	0		

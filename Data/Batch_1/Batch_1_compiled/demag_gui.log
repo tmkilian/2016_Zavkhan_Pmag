@@ -1,0 +1,56 @@
+-I- cant find zeq_gui_preferences file, using defualt default
+data model: 2.5
+-W- Cant find er_locations.txt in project directory
+-W- Cant find er_ages in project directory
+-I- Read magic file /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/magic_measurements.txt
+-I- done sorting meas data
+-I- Reading previous interpretations from pmag* tables
+-I- read redo file and processing new bounds
+-I- Read old magic file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_specimens.txt
+
+-I- Delete old magic file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_specimens.txt
+
+1569  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_specimens.txt
+specimen data stored in /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_specimens.txt
+
+-I- Read old magic file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_samples.txt
+-I- Read old magic file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_sites.txt
+-I- Delete old magic file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_sites.txt
+-I- Read old magic file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_results.txt
+-I- Delete old magic file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_results.txt
+('coord', 'b', 'vgps_level', 'site', 'DefaultAge', ['0', 1996.549893759325, u'Years Cal BP'], 'avg_directions_by_sample', False, 'avg_by_polarity', False, 'use_criteria', 'none')
+162  records written to file  ./pmag_sites.txt
+ sites written to  ./pmag_sites.txt
+162  records written to file  ./pmag_results.txt
+ results written to  ./pmag_results.txt
+162  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_sites.txt
+write new interpretations in /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_sites.txt
+
+162  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_results.txt
+write new interpretations in /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_results.txt
+
+-I- Reading previous interpretations from pmag* tables
+-I- Read old magic file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_specimens.txt
+
+-I- Delete old magic file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_specimens.txt
+
+1046  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_specimens.txt
+specimen data stored in /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_specimens.txt
+
+-I- Read old magic file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_samples.txt
+-I- Read old magic file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_sites.txt
+-I- Delete old magic file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_sites.txt
+-I- Read old magic file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_results.txt
+-I- Delete old magic file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_results.txt
+('coord', 'b', 'vgps_level', 'site', 'DefaultAge', ['0', 1996.549902728887, u'Years Cal BP'], 'avg_directions_by_sample', False, 'avg_by_polarity', False, 'use_criteria', 'none')
+162  records written to file  ./pmag_sites.txt
+ sites written to  ./pmag_sites.txt
+162  records written to file  ./pmag_results.txt
+ results written to  ./pmag_results.txt
+162  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_sites.txt
+write new interpretations in /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_sites.txt
+
+162  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_results.txt
+write new interpretations in /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_results.txt
+
+-I- Reading previous interpretations from pmag* tables

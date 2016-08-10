@@ -1,0 +1,3 @@
+tab 	pmag_criteria
+criteria_definition	er_citation_names	pmag_criteria_code	site_n
+acceptance criteria for study	This study	ACCEPT	3

@@ -1,0 +1,15 @@
+,site_info,,,,,,,,,,,,,,,,,,,,,
+site_id,Z88,,,,,,,,,,,,,,,,,,,,,
+site_name,upper Zavkhan basalt flow,,,,,,,,,,,,,,,,,,,,,
+site_lat,46.72916,(_N),,,,,,,,,,,,,,,,,,,,
+site_long,96.03356,(_E),,,,,,Sun Compass Information,,,,,,,,,Calculated Fields,,,,,
+site_elevation,2500,,,,,,,,,,,,,,,,,,,,,
+sample_name,comment,strat_level,magnetic_core_strike,core_dip,bedding_strike,bedding_dip,correct_bedding_using_local_dec,shadow_angle,GMT_offset,year,month,days,hours,minutes,mass,runs,sun_core_strike,calculated_IGRF,IGRF_local_dec,calculated_mag_dec,core_strike,corrected_bedding_strike
+.1a,mag compass orientation (IGRF corrected),10.9,96,72.0,137,38.0,yes,nan,8.0,2014.0,6.0,6.0,1.0,1.0,,nan,nan,[0.41120291459268538; 67.375558138905447; 58583.519181515236],0.411202914593,insufficient data,96.4,137.4
+.2a,mag compass orientation (IGRF corrected),11,80,39.0,137,38.0,yes,nan,8.0,2014.0,6.0,6.0,1.0,1.0,,nan,nan,[0.41120291459268538; 67.375558138905447; 58583.519181515236],0.411202914593,insufficient data,80.4,137.4
+.3a,mag compass orientation (IGRF corrected),11.1,144,35.0,137,38.0,yes,nan,8.0,2014.0,6.0,6.0,1.0,1.0,,nan,nan,[0.41120291459268538; 67.375558138905447; 58583.519181515236],0.411202914593,insufficient data,144.4,137.4
+.4a,sun compass orientation,11.3,122,27.0,137,38.0,yes,79.0,8.0,2014.0,6.0,6.0,15.0,1.0,,nan,122.3,[0.41115717913186994; 67.375662456004221; 58583.564471887963],0.411157179132,0.3,122.3,137.4
+.5a,sun compass orientation,11.5,27,33.0,137,38.0,yes,344.0,8.0,2014.0,6.0,6.0,15.0,2.0,,nan,27.7,[0.41115712468470073; 67.375662580191133; 58583.56452580521],0.411157124685,0.7,27.7,137.4
+.6a,sun compass orientation,11.5,115,87.0,137,38.0,yes,71.0,8.0,2014.0,6.0,6.0,15.0,6.0,,nan,116.3,[0.41115690689600082; 67.375663076938821; 58583.564741474118],0.411156906896,1.3,116.3,137.4
+.7a,sun compass orientation,11.6,27,45.0,137,38.0,yes,340.0,8.0,2014.0,6.0,6.0,15.0,8.0,,nan,26.1,[0.41115679800164695; 67.375663325312672; 58583.564849308612],0.411156798002,-0.9,26.1,137.4
+.8a,sun compass orientation,11.4,118,24.0,137,38.0,yes,72.0,8.0,2014.0,6.0,6.0,15.0,9.0,,nan,118.5,[0.4111567435544729; 67.375663449499555; 58583.564903225815],0.411156743554,0.5,118.5,137.4

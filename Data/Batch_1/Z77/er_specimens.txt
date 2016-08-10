@@ -1,0 +1,10 @@
+tab 	er_specimens
+er_citation_names	er_location_name	er_sample_name	er_site_name	er_specimen_name	specimen_volume	specimen_weight
+This study	unknown	Z77.1	Z77	Z77.1a	3.820e-05	
+This study	unknown	Z77.2	Z77	Z77.2a	3.820e-05	
+This study	unknown	Z77.3	Z77	Z77.3a	3.820e-05	
+This study	unknown	Z77.4	Z77	Z77.4a	3.820e-05	
+This study	unknown	Z77.5	Z77	Z77.5a	3.820e-05	
+This study	unknown	Z77.6	Z77	Z77.6a	3.820e-05	
+This study	unknown	Z77.7	Z77	Z77.7a	3.820e-05	
+This study	unknown	Z77.8	Z77	Z77.8a	3.820e-05	

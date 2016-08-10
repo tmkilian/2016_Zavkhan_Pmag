@@ -1,0 +1,13 @@
+,site_info,,,,,,,,,,,,,,,,,,,,,
+site_id,Z64,,,,,,,,,,,,,,,,,,,,,
+site_name,Zavkhan intermediate lava flow (andesite?),,,,,,,,,,,,,,,,,,,,,
+site_lat,46.72163,(_N),,,,,,,,,,,,,,,,,,,,
+site_long,96.06779,(_E),,,,,,Sun Compass Information,,,,,,,,,Calculated Fields,,,,,
+site_elevation,2500,,,,,,,,,,,,,,,,,,,,,
+sample_name,comment,strat_level,magnetic_core_strike,core_dip,bedding_strike,bedding_dip,correct_bedding_using_local_dec,shadow_angle,GMT_offset,year,month,days,hours,minutes,mass,runs,sun_core_strike,calculated_IGRF,IGRF_local_dec,calculated_mag_dec,core_strike,corrected_bedding_strike
+.1a,sun compass orientation,205.4,57,57.0,110.8,36.2,yes,138,8,2014,6,4,10,0,,nan,58.5,[0.39626537121098554; 67.367841670116746; 58582.221818137012],0.396265371211,1.5,58.5,111.2
+.2a,sun compass orientation,205.3,129,62.0,110.8,36.2,yes,211,8,2014,6,4,10,5,,nan,132.6,[0.39626509826022999; 67.367842291170348; 58582.222087491842],0.39626509826,3.6,132.6,111.2
+.5a,sun compass orientation,204,15,43.0,110.8,36.2,yes,92,8,2014,6,4,10,18,,nan,16.4,[0.3962643885881994; 67.367843905909737; 58582.222787814513],0.396264388588,1.4,16.4,111.2
+.6a,sun compass orientation,205.1,319,29.0,110.8,36.2,yes,35,8,2014,6,4,10,23,,nan,320.5,[0.396264115637397; 67.367844526963339; 58582.223057169394],0.396264115637,1.5,320.5,111.2
+.7a,sun compass orientation,205.2,111,25.0,110.8,36.2,yes,185,8,2014,6,4,10,27,,nan,111.5,[0.39626389727674355; 67.367845023806197; 58582.223272653311],0.396263897277,0.5,111.5,111.2
+.8a,sun compass orientation,205.2,125,30.0,110.8,36.2,yes,198,8,2014,6,4,10,28,,nan,124.7,[0.39626384268658321; 67.367845148016954; 58582.223326524334],0.396263842687,-0.3,124.7,111.2

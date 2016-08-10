@@ -1,0 +1,14 @@
+,site_info,,,,,,,,,,,,,,,,,,,,,
+site_id,Z72,,,,,,,,,,,,,,,,,,,,,
+site_name,Zavkhan tuff,,,,,,,,,,,,,,,,,,,,,
+site_lat,46.71887,(_N),,,,,,,,,,,,,,,,,,,,
+site_long,96.06342,(_E),,,,,,Sun Compass Information,,,,,,,,,Calculated Fields,,,,,
+site_elevation,2500,,,,,,,,,,,,,,,,,,,,,
+sample_name,comment,strat_level,magnetic_core_strike,core_dip,bedding_strike,bedding_dip,correct_bedding_using_local_dec,shadow_angle,GMT_offset,year,month,days,hours,minutes,mass,runs,sun_core_strike,calculated_IGRF,IGRF_local_dec,calculated_mag_dec,core_strike,corrected_bedding_strike
+.1a,sun compass orientation,480.1,298,47.0,129.8,38.2,yes,210.0,8.0,2014.0,6.0,4.0,17.0,54.0,,nan,298.5,[0.39778881038759384; 67.365215787847518; 58581.011272526361],0.397788810388,0.5,298.5,130.2
+.2a,mag compass orientation (IGRF corrected),480.1,282,60.0,129.8,38.2,yes,nan,8.0,2014.0,6.0,4.0,1.0,1.0,,nan,nan,[0.39784407001626798; 67.36508995040343; 58580.956681524622],0.397844070016,insufficient data,282.4,130.2
+.3a,mag compass orientation (IGRF corrected),480.1,276,59.0,129.8,38.2,yes,nan,8.0,2014.0,6.0,4.0,1.0,1.0,,nan,nan,[0.39784407001626798; 67.36508995040343; 58580.956681524622],0.397844070016,insufficient data,276.4,130.2
+.4a,sun compass orientation,480.8,220,21.0,129.8,38.2,yes,123.0,8.0,2014.0,6.0,4.0,18.0,9.0,,nan,211.8,[0.39778799212690541; 67.365217651183883; 58581.012080884895],0.397787992127,-8.2,211.8,130.2
+.5a,sun compass orientation,482.4,165,51.0,129.8,38.2,yes,74.0,8.0,2014.0,6.0,4.0,18.0,16.0,,nan,161.5,[0.39778761027188037; 67.365218520740854; 58581.012458118938],0.397787610272,-3.5,161.5,130.2
+.6a,sun compass orientation,482.3,188,36.0,129.8,38.2,yes,96.0,8.0,2014.0,6.0,4.0,18.0,18.0,,nan,183.2,[0.3977875011704452; 67.36521876918566; 58581.012565900113],0.39778750117,-4.8,183.2,130.2
+.7a,sun compass orientation,482.3,178,41.0,129.8,38.2,yes,86.0,8.0,2014.0,6.0,4.0,18.0,19.0,,nan,173.0,[0.39778744661972082; 67.365218893408084; 58581.012619790672],0.39778744662,-5.0,173.0,130.2
