@@ -5,12 +5,31 @@ data model: 2.5
 -I- Read magic file /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/magic_measurements.txt
 -I- done sorting meas data
 -I- Reading previous interpretations from pmag* tables
--I- read redo file and processing new bounds
+No lower bound for Fit 4 on specimen Z70.5a using lowest step (0) for lower bound
+No upper bound for fit Fit 4 on specimen Z70.5a using last step (675C) for upper bound
+8035  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/magic_measurements.txt
+8035  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/magic_measurements.txt
+8035  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/magic_measurements.txt
+8035  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/magic_measurements.txt
+8035  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/magic_measurements.txt
+8035  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/magic_measurements.txt
+8035  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/magic_measurements.txt
+8035  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/magic_measurements.txt
+8035  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/magic_measurements.txt
+8035  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/magic_measurements.txt
+No lower bound for Fit 4 on specimen Z70.4a using lowest step (0) for lower bound
+No upper bound for fit Fit 4 on specimen Z70.4a using last step (675C) for upper bound
+8035  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/magic_measurements.txt
+No lower bound for Fit 4 on specimen Z70.3a using lowest step (0) for lower bound
+No upper bound for fit Fit 4 on specimen Z70.3a using last step (675C) for upper bound
+8035  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/magic_measurements.txt
+8035  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/magic_measurements.txt
+8035  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/magic_measurements.txt
 -I- Read old magic file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_specimens.txt
 
 -I- Delete old magic file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_specimens.txt
 
-1569  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_specimens.txt
+1749  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_specimens.txt
 specimen data stored in /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_specimens.txt
 
 -I- Read old magic file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_samples.txt
@@ -18,15 +37,16 @@ specimen data stored in /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch
 -I- Delete old magic file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_sites.txt
 -I- Read old magic file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_results.txt
 -I- Delete old magic file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_results.txt
-('coord', 'b', 'vgps_level', 'site', 'DefaultAge', ['0', 1996.549893759325, u'Years Cal BP'], 'avg_directions_by_sample', False, 'avg_by_polarity', False, 'use_criteria', 'none')
-162  records written to file  ./pmag_sites.txt
+('coord', 'b', 'vgps_level', 'site', 'DefaultAge', ['0', 1996.6318086578747, u'Years Cal BP'], 'avg_directions_by_sample', False, 'avg_by_polarity', False, 'use_criteria', 'existing')
+Acceptance criteria read in from  ./pmag_criteria.txt
+164  records written to file  ./pmag_sites.txt
  sites written to  ./pmag_sites.txt
-162  records written to file  ./pmag_results.txt
+160  records written to file  ./pmag_results.txt
  results written to  ./pmag_results.txt
-162  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_sites.txt
+164  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_sites.txt
 write new interpretations in /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_sites.txt
 
-162  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_results.txt
+160  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_results.txt
 write new interpretations in /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_results.txt
 
 -I- Reading previous interpretations from pmag* tables
@@ -34,7 +54,7 @@ write new interpretations in /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/
 
 -I- Delete old magic file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_specimens.txt
 
-1046  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_specimens.txt
+1749  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_specimens.txt
 specimen data stored in /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_specimens.txt
 
 -I- Read old magic file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_samples.txt
@@ -42,15 +62,681 @@ specimen data stored in /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch
 -I- Delete old magic file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_sites.txt
 -I- Read old magic file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_results.txt
 -I- Delete old magic file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_results.txt
-('coord', 'b', 'vgps_level', 'site', 'DefaultAge', ['0', 1996.549902728887, u'Years Cal BP'], 'avg_directions_by_sample', False, 'avg_by_polarity', False, 'use_criteria', 'none')
-162  records written to file  ./pmag_sites.txt
+('coord', 'b', 'vgps_level', 'site', 'DefaultAge', ['0', 1996.6318305990653, u'Years Cal BP'], 'avg_directions_by_sample', False, 'avg_by_polarity', False, 'use_criteria', 'none')
+164  records written to file  ./pmag_sites.txt
  sites written to  ./pmag_sites.txt
-162  records written to file  ./pmag_results.txt
+164  records written to file  ./pmag_results.txt
  results written to  ./pmag_results.txt
-162  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_sites.txt
+164  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_sites.txt
 write new interpretations in /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_sites.txt
 
-162  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_results.txt
+164  records written to file  /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_results.txt
 write new interpretations in /Users/taylorkilian/2016_Zavkhan_Pmag/Data/Batch_1/Batch_1_compiled/pmag_results.txt
 
 -I- Reading previous interpretations from pmag* tables
+no element: Z59.1a
+no element: Z59.2a
+no element: Z59.3a
+no element: Z59.4a
+no element: Z59.5a
+no element: Z59.6a
+no element: Z59.7a
+no element: Z59.8a
+no element: Z59.9a
+no element: Z64.1a
+no element: Z64.2a
+no element: Z64.5a
+no element: Z64.6a
+no element: Z64.7a
+no element: Z64.8a
+no element: Z65.1a
+no element: Z65.2a
+no element: Z65.3a
+no element: Z65.4a
+no element: Z65.5a
+no element: Z65.6a
+no element: Z65.7a
+no element: Z65.8a
+no element: Z66.1a
+no element: Z66.2a
+no element: Z66.3a
+no element: Z66.4a
+no element: Z66.5a
+no element: Z66.6a
+no element: Z66.7a
+no element: Z66.8a
+no element: Z70.1a
+no element: Z70.2a
+no element: Z70.3a
+no element: Z70.4a
+no element: Z70.5a
+no element: Z70.6a
+no element: Z70.7a
+no element: Z70.8a
+no element: Z71.1a
+no element: Z71.2a
+no element: Z71.3a
+no element: Z71.4a
+no element: Z71.5a
+no element: Z71.6a
+no element: Z71.7a
+no element: Z71.8a
+no element: Z72.1a
+no element: Z72.2a
+no element: Z72.3a
+no element: Z72.4a
+no element: Z72.5a
+no element: Z72.6a
+no element: Z72.7a
+no element: Z73.1a
+no element: Z73.2a
+no element: Z73.3a
+no element: Z73.4a
+no element: Z73.5a
+no element: Z73.6a
+no element: Z73.7a
+no element: Z73.8a
+no element: Z74.1a
+no element: Z74.2a
+no element: Z74.3a
+no element: Z74.4a
+no element: Z74.5a
+no element: Z74.6a
+no element: Z74.7a
+no element: Z74.8a
+no element: Z76.1a
+no element: Z76.2a
+no element: Z76.3a
+no element: Z76.4a
+no element: Z76.5a
+no element: Z76.6a
+no element: Z76.7a
+no element: Z76.8a
+no element: Z77.1a
+no element: Z77.2a
+no element: Z77.3a
+no element: Z77.4a
+no element: Z77.5a
+no element: Z77.6a
+no element: Z77.7a
+no element: Z77.8a
+no element: Z78.10a
+no element: Z78.1a
+no element: Z78.2a
+no element: Z78.3a
+no element: Z78.4a
+no element: Z78.5a
+no element: Z78.6a
+no element: Z78.7a
+no element: Z78.8a
+no element: Z78.9a
+no element: Z79.1a
+no element: Z79.2a
+no element: Z79.3a
+no element: Z79.4a
+no element: Z79.5a
+no element: Z79.6a
+no element: Z79.7a
+no element: Z79.8a
+no element: Z80.1a
+no element: Z80.2a
+no element: Z80.3a
+no element: Z80.4a
+no element: Z80.5a
+no element: Z80.6a
+no element: Z80.7a
+no element: Z80.8a
+no element: Z81.1a
+no element: Z81.2a
+no element: Z81.3a
+no element: Z81.5a
+no element: Z81.6a
+no element: Z81.7a
+no element: Z81.8a
+no element: Z82.1a
+no element: Z82.2a
+no element: Z82.3a
+no element: Z82.4a
+no element: Z82.5a
+no element: Z82.6a
+no element: Z82.7a
+no element: Z82.8a
+no element: Z83.1a
+no element: Z83.2a
+no element: Z83.3a
+no element: Z83.4a
+no element: Z83.5a
+no element: Z83.6a
+no element: Z83.8a
+no element: Z84.1a
+no element: Z84.2a
+no element: Z84.3a
+no element: Z84.4a
+no element: Z84.5a
+no element: Z84.6a
+no element: Z84.7a
+no element: Z84.8a
+no element: Z85.1a
+no element: Z85.2a
+no element: Z85.3a
+no element: Z85.4a
+no element: Z85.5a
+no element: Z85.6a
+no element: Z85.7a
+no element: Z85.8a
+no element: Z87.1a
+no element: Z87.2a
+no element: Z87.3a
+no element: Z87.4a
+no element: Z87.5a
+no element: Z87.6a
+no element: Z87.7a
+no element: Z87.8a
+no element: Z88.1a
+no element: Z88.2a
+no element: Z88.3a
+no element: Z88.4a
+no element: Z88.5a
+no element: Z88.6a
+no element: Z88.7a
+no element: Z88.8a
+no element: Z89.1a
+no element: Z89.2a
+no element: Z89.3a
+no element: Z89.4a
+no element: Z89.5a
+no element: Z89.6a
+no element: Z89.7a
+no element: Z89.8a
+no element: Z90.1a
+no element: Z90.2a
+no element: Z90.3a
+no element: Z90.4a
+no element: Z90.5a
+no element: Z90.6a
+no element: Z90.7a
+no element: Z90.8a
+no element: Z91.1a
+no element: Z91.2a
+no element: Z91.3a
+no element: Z91.4a
+no element: Z91.5a
+no element: Z91.6a
+no element: Z91.7a
+no element: Z91.8a
+no element: Z92.1a
+no element: Z92.2a
+no element: Z92.3a
+no element: Z92.4a
+no element: Z92.5a
+no element: Z92.6a
+no element: Z92.7a
+no element: Z92.8a
+no element: Z93.1a
+no element: Z93.2a
+no element: Z93.3a
+no element: Z93.4a
+no element: Z93.5a
+no element: Z93.6a
+no element: Z93.7a
+no element: Z93.8a
+no element: Z94.1a
+no element: Z94.2a
+no element: Z94.3a
+no element: Z94.4a
+no element: Z94.5a
+no element: Z94.6a
+no element: Z94.7a
+no element: Z94.8a
+no element: Z95.1a
+no element: Z95.2a
+no element: Z95.3a
+no element: Z95.4a
+no element: Z95.5a
+no element: Z95.6a
+no element: Z95.7a
+no element: Z95.8a
+no element: Z59.1a
+no element: Z59.2a
+no element: Z59.3a
+no element: Z59.4a
+no element: Z59.5a
+no element: Z59.6a
+no element: Z59.7a
+no element: Z59.8a
+no element: Z59.9a
+no element: Z64.1a
+no element: Z64.2a
+no element: Z64.5a
+no element: Z64.6a
+no element: Z64.7a
+no element: Z64.8a
+no element: Z65.1a
+no element: Z65.2a
+no element: Z65.3a
+no element: Z65.4a
+no element: Z65.5a
+no element: Z65.6a
+no element: Z65.7a
+no element: Z65.8a
+no element: Z66.1a
+no element: Z66.2a
+no element: Z66.3a
+no element: Z66.4a
+no element: Z66.5a
+no element: Z66.6a
+no element: Z66.7a
+no element: Z66.8a
+no element: Z70.1a
+no element: Z70.2a
+no element: Z70.3a
+no element: Z70.4a
+no element: Z70.5a
+no element: Z70.6a
+no element: Z70.7a
+no element: Z70.8a
+no element: Z71.1a
+no element: Z71.2a
+no element: Z71.3a
+no element: Z71.4a
+no element: Z71.5a
+no element: Z71.6a
+no element: Z71.7a
+no element: Z71.8a
+no element: Z72.1a
+no element: Z72.2a
+no element: Z72.3a
+no element: Z72.4a
+no element: Z72.5a
+no element: Z72.6a
+no element: Z72.7a
+no element: Z73.1a
+no element: Z73.2a
+no element: Z73.3a
+no element: Z73.4a
+no element: Z73.5a
+no element: Z73.6a
+no element: Z73.7a
+no element: Z73.8a
+no element: Z74.1a
+no element: Z74.2a
+no element: Z74.3a
+no element: Z74.4a
+no element: Z74.5a
+no element: Z74.6a
+no element: Z74.7a
+no element: Z74.8a
+no element: Z76.1a
+no element: Z76.2a
+no element: Z76.3a
+no element: Z76.4a
+no element: Z76.5a
+no element: Z76.6a
+no element: Z76.7a
+no element: Z76.8a
+no element: Z77.1a
+no element: Z77.2a
+no element: Z77.3a
+no element: Z77.4a
+no element: Z77.5a
+no element: Z77.6a
+no element: Z77.7a
+no element: Z77.8a
+no element: Z78.10a
+no element: Z78.1a
+no element: Z78.2a
+no element: Z78.3a
+no element: Z78.4a
+no element: Z78.5a
+no element: Z78.6a
+no element: Z78.7a
+no element: Z78.8a
+no element: Z78.9a
+no element: Z79.1a
+no element: Z79.2a
+no element: Z79.3a
+no element: Z79.4a
+no element: Z79.5a
+no element: Z79.6a
+no element: Z79.7a
+no element: Z79.8a
+no element: Z80.1a
+no element: Z80.2a
+no element: Z80.3a
+no element: Z80.4a
+no element: Z80.5a
+no element: Z80.6a
+no element: Z80.7a
+no element: Z80.8a
+no element: Z81.1a
+no element: Z81.2a
+no element: Z81.3a
+no element: Z81.5a
+no element: Z81.6a
+no element: Z81.7a
+no element: Z81.8a
+no element: Z82.1a
+no element: Z82.2a
+no element: Z82.3a
+no element: Z82.4a
+no element: Z82.5a
+no element: Z82.6a
+no element: Z82.7a
+no element: Z82.8a
+no element: Z83.1a
+no element: Z83.2a
+no element: Z83.3a
+no element: Z83.4a
+no element: Z83.5a
+no element: Z83.6a
+no element: Z83.8a
+no element: Z84.1a
+no element: Z84.2a
+no element: Z84.3a
+no element: Z84.4a
+no element: Z84.5a
+no element: Z84.6a
+no element: Z84.7a
+no element: Z84.8a
+no element: Z85.1a
+no element: Z85.2a
+no element: Z85.3a
+no element: Z85.4a
+no element: Z85.5a
+no element: Z85.6a
+no element: Z85.7a
+no element: Z85.8a
+no element: Z87.1a
+no element: Z87.2a
+no element: Z87.3a
+no element: Z87.4a
+no element: Z87.5a
+no element: Z87.6a
+no element: Z87.7a
+no element: Z87.8a
+no element: Z88.1a
+no element: Z88.2a
+no element: Z88.3a
+no element: Z88.4a
+no element: Z88.5a
+no element: Z88.6a
+no element: Z88.7a
+no element: Z88.8a
+no element: Z89.1a
+no element: Z89.2a
+no element: Z89.3a
+no element: Z89.4a
+no element: Z89.5a
+no element: Z89.6a
+no element: Z89.7a
+no element: Z89.8a
+no element: Z90.1a
+no element: Z90.2a
+no element: Z90.3a
+no element: Z90.4a
+no element: Z90.5a
+no element: Z90.6a
+no element: Z90.7a
+no element: Z90.8a
+no element: Z91.1a
+no element: Z91.2a
+no element: Z91.3a
+no element: Z91.4a
+no element: Z91.5a
+no element: Z91.6a
+no element: Z91.7a
+no element: Z91.8a
+no element: Z92.1a
+no element: Z92.2a
+no element: Z92.3a
+no element: Z92.4a
+no element: Z92.5a
+no element: Z92.6a
+no element: Z92.7a
+no element: Z92.8a
+no element: Z93.1a
+no element: Z93.2a
+no element: Z93.3a
+no element: Z93.4a
+no element: Z93.5a
+no element: Z93.6a
+no element: Z93.7a
+no element: Z93.8a
+no element: Z94.1a
+no element: Z94.2a
+no element: Z94.3a
+no element: Z94.4a
+no element: Z94.5a
+no element: Z94.6a
+no element: Z94.7a
+no element: Z94.8a
+no element: Z95.1a
+no element: Z95.2a
+no element: Z95.3a
+no element: Z95.4a
+no element: Z95.5a
+no element: Z95.6a
+no element: Z95.7a
+no element: Z95.8a
+no element: Z59.1a
+no element: Z59.2a
+no element: Z59.3a
+no element: Z59.4a
+no element: Z59.5a
+no element: Z59.6a
+no element: Z59.7a
+no element: Z59.8a
+no element: Z59.9a
+no element: Z64.1a
+no element: Z64.2a
+no element: Z64.5a
+no element: Z64.6a
+no element: Z64.7a
+no element: Z64.8a
+no element: Z65.1a
+no element: Z65.2a
+no element: Z65.3a
+no element: Z65.4a
+no element: Z65.5a
+no element: Z65.6a
+no element: Z65.7a
+no element: Z65.8a
+no element: Z66.1a
+no element: Z66.2a
+no element: Z66.3a
+no element: Z66.4a
+no element: Z66.5a
+no element: Z66.6a
+no element: Z66.7a
+no element: Z66.8a
+no element: Z70.1a
+no element: Z70.2a
+no element: Z70.3a
+no element: Z70.4a
+no element: Z70.5a
+no element: Z70.6a
+no element: Z70.7a
+no element: Z70.8a
+no element: Z71.1a
+no element: Z71.2a
+no element: Z71.3a
+no element: Z71.4a
+no element: Z71.5a
+no element: Z71.6a
+no element: Z71.7a
+no element: Z71.8a
+no element: Z72.1a
+no element: Z72.2a
+no element: Z72.3a
+no element: Z72.4a
+no element: Z72.5a
+no element: Z72.6a
+no element: Z72.7a
+no element: Z73.1a
+no element: Z73.2a
+no element: Z73.3a
+no element: Z73.4a
+no element: Z73.5a
+no element: Z73.6a
+no element: Z73.7a
+no element: Z73.8a
+no element: Z74.1a
+no element: Z74.2a
+no element: Z74.3a
+no element: Z74.4a
+no element: Z74.5a
+no element: Z74.6a
+no element: Z74.7a
+no element: Z74.8a
+no element: Z76.1a
+no element: Z76.2a
+no element: Z76.3a
+no element: Z76.4a
+no element: Z76.5a
+no element: Z76.6a
+no element: Z76.7a
+no element: Z76.8a
+no element: Z77.1a
+no element: Z77.2a
+no element: Z77.3a
+no element: Z77.4a
+no element: Z77.5a
+no element: Z77.6a
+no element: Z77.7a
+no element: Z77.8a
+no element: Z78.1a
+no element: Z78.2a
+no element: Z78.3a
+no element: Z78.4a
+no element: Z78.5a
+no element: Z78.6a
+no element: Z78.7a
+no element: Z78.8a
+no element: Z78.9a
+no element: Z78.10a
+no element: Z79.1a
+no element: Z79.2a
+no element: Z79.3a
+no element: Z79.4a
+no element: Z79.5a
+no element: Z79.6a
+no element: Z79.7a
+no element: Z79.8a
+no element: Z80.1a
+no element: Z80.2a
+no element: Z80.3a
+no element: Z80.4a
+no element: Z80.5a
+no element: Z80.6a
+no element: Z80.7a
+no element: Z80.8a
+no element: Z81.1a
+no element: Z81.2a
+no element: Z81.3a
+no element: Z81.5a
+no element: Z81.6a
+no element: Z81.7a
+no element: Z81.8a
+no element: Z82.1a
+no element: Z82.2a
+no element: Z82.3a
+no element: Z82.4a
+no element: Z82.5a
+no element: Z82.6a
+no element: Z82.7a
+no element: Z82.8a
+no element: Z83.1a
+no element: Z83.2a
+no element: Z83.3a
+no element: Z83.4a
+no element: Z83.5a
+no element: Z83.6a
+no element: Z83.8a
+no element: Z84.1a
+no element: Z84.2a
+no element: Z84.3a
+no element: Z84.4a
+no element: Z84.5a
+no element: Z84.6a
+no element: Z84.7a
+no element: Z84.8a
+no element: Z85.1a
+no element: Z85.2a
+no element: Z85.3a
+no element: Z85.4a
+no element: Z85.5a
+no element: Z85.6a
+no element: Z85.7a
+no element: Z85.8a
+no element: Z87.1a
+no element: Z87.2a
+no element: Z87.3a
+no element: Z87.4a
+no element: Z87.5a
+no element: Z87.6a
+no element: Z87.7a
+no element: Z87.8a
+no element: Z88.1a
+no element: Z88.2a
+no element: Z88.3a
+no element: Z88.4a
+no element: Z88.5a
+no element: Z88.6a
+no element: Z88.7a
+no element: Z88.8a
+no element: Z89.1a
+no element: Z89.2a
+no element: Z89.3a
+no element: Z89.4a
+no element: Z89.5a
+no element: Z89.6a
+no element: Z89.7a
+no element: Z89.8a
+no element: Z90.1a
+no element: Z90.2a
+no element: Z90.3a
+no element: Z90.4a
+no element: Z90.5a
+no element: Z90.6a
+no element: Z90.7a
+no element: Z90.8a
+no element: Z91.1a
+no element: Z91.2a
+no element: Z91.3a
+no element: Z91.4a
+no element: Z91.5a
+no element: Z91.6a
+no element: Z91.7a
+no element: Z91.8a
+no element: Z92.1a
+no element: Z92.2a
+no element: Z92.3a
+no element: Z92.4a
+no element: Z92.5a
+no element: Z92.6a
+no element: Z92.7a
+no element: Z92.8a
+no element: Z93.1a
+no element: Z93.2a
+no element: Z93.3a
+no element: Z93.4a
+no element: Z93.5a
+no element: Z93.6a
+no element: Z93.7a
+no element: Z93.8a
+no element: Z94.1a
+no element: Z94.2a
+no element: Z94.3a
+no element: Z94.4a
+no element: Z94.5a
+no element: Z94.6a
+no element: Z94.7a
+no element: Z94.8a
+no element: Z95.1a
+no element: Z95.2a
+no element: Z95.3a
+no element: Z95.4a
+no element: Z95.5a
+no element: Z95.6a
+no element: Z95.7a
+no element: Z95.8a
