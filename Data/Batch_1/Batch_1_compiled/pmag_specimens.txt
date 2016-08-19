@@ -1316,7 +1316,7 @@ er_analyst_mail_names	er_citation_names	er_location_name	er_sample_name	er_site_
 	This study	unknown	Z84.8	Z84	Z84.8a	Z84.8a:LP-DIR-T	hargrave 2016-05-04 13:36:07	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.1	843	823	K		3	MAG	u	6.6	329.8	l	g	60.1	11.8	6	0
 	This study	unknown	Z84.8	Z84	Z84.8a	Z84.8a:LP-DIR-T	hargrave 2016-05-04 13:36:07	LP-DIR-T:DE-BFL:DA-DIR-TILT	pmagpy-3.4.1	473	348	K		3	LOW	u	161.0	254.8	l	g	63.1	8.4	4	100
 	This study	unknown	Z84.8	Z84	Z84.8a	Z84.8a:LP-DIR-T	hargrave 2016-05-04 13:36:07	LP-DIR-T:DE-BFL:DA-DIR-TILT	pmagpy-3.4.1	818	723	K		3	MID	u	17.1	30.6	l	g	-64.9	1.7	6	100
-	This study	unknown	Z84.8	Z84	Z84.8a	Z84.8a:LP-DIR-T	hargrave 2016-05-04 13:36:07	LP-DIR-T:DE-BFL:DA-DIR-TILT	pmagpy-3.4.1	843	818	K		3	MAG	u	7.1	247.4	l	g	57.9	11.3	7	100
+	This study	unknown	Z84.8	Z84	Z84.8a	Z84.8a:LP-DIR-T	hargrave 2016-05-04 13:36:07	LP-DIR-T:DE-BFL:DA-DIR-TILT	pmagpy-3.4.1	843	823	K		3	MAG	u	6.6	249.8	l	g	60.5	11.8	6	100
 	This study	unknown	Z85.1	Z85	Z85.1a	Z85.1a:LP-DIR-T	hargrave 2016-05-04 13:38:53	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.1	723	623	K		2	MID	u	13.7	35.5	l	g	-32.6	0.4	4	-1
 	This study	unknown	Z85.1	Z85	Z85.1a	Z85.1a:LP-DIR-T	hargrave 2016-05-04 13:38:53	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.1	843	803	K		2	MAG	u	6.0	65.7	l	g	-19.4	3.7	7	-1
 	This study	unknown	Z85.1	Z85	Z85.1a	Z85.1a:LP-DIR-T	hargrave 2016-05-04 13:38:53	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.1	723	623	K		2	MID	u	13.7	204.3	l	g	-60.0	0.4	4	0
@@ -1435,13 +1435,13 @@ er_analyst_mail_names	er_citation_names	er_location_name	er_sample_name	er_site_
 	This study	unknown	Z87.8	Z87	Z87.8a	Z87.8a:LP-DIR-T	hargrave 2016-06-14 11:34:13	LP-DIR-T:DE-BFL:DA-DIR-TILT	pmagpy-3.4.1	773	623	K		3	MID	u	5.2	47.4	l	g	-48.4	13.4	6	100
 	This study	unknown	Z87.8	Z87	Z87.8a	Z87.8a:LP-DIR-T	hargrave 2016-06-14 11:34:13	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	pmagpy-3.4.1	933	903	K		3	HEM	u	0.0	73.5	l	g	-59.6	6.5	3	100
 	This study	unknown	Z88.1	Z88	Z88.1a	Z88.1a:LP-DIR-T	hargrave 2016-06-10 10:54:48	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.1	473	348	K		3	LOW	u	129.4	199.4	l	g	56.2	17.4	4	-1
-	This study	unknown	Z88.1	Z88	Z88.1a	Z88.1a:LP-DIR-T	hargrave 2016-06-10 10:54:48	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.1	748	623	K		3	MID	u	48.5	318.5	l	g	-6.5	19.5	4	-1
+	This study	unknown	Z88.1	Z88	Z88.1a	Z88.1a:LP-DIR-T	hargrave 2016-06-10 10:54:48	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.1	748	623	K		3	MID	u	48.5	318.5	l	b	-6.5	19.5	4	-1
 	This study	unknown	Z88.1	Z88	Z88.1a	Z88.1a:LP-DIR-T	hargrave 2016-06-10 10:54:48	LP-DIR-T:DE-BFL-A:DA-DIR	pmagpy-3.4.1	903	863	K		3	HEM	u	0.0	11.5	l	g	-18.1	1.7	3	-1
 	This study	unknown	Z88.1	Z88	Z88.1a	Z88.1a:LP-DIR-T	hargrave 2016-06-10 10:54:48	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.1	473	348	K		3	LOW	u	129.4	350.0	l	g	49.1	17.4	4	0
-	This study	unknown	Z88.1	Z88	Z88.1a	Z88.1a:LP-DIR-T	hargrave 2016-06-10 10:54:48	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.1	748	623	K		3	MID	u	48.5	286.9	l	g	-48.0	19.5	4	0
+	This study	unknown	Z88.1	Z88	Z88.1a	Z88.1a:LP-DIR-T	hargrave 2016-06-10 10:54:48	LP-DIR-T:DE-BFL:DA-DIR-GEO	pmagpy-3.4.1	748	623	K		3	MID	u	48.5	286.9	l	b	-48.0	19.5	4	0
 	This study	unknown	Z88.1	Z88	Z88.1a	Z88.1a:LP-DIR-T	hargrave 2016-06-10 10:54:48	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	pmagpy-3.4.1	903	863	K		3	HEM	u	0.0	98.8	l	g	-79.1	1.7	3	0
 	This study	unknown	Z88.1	Z88	Z88.1a	Z88.1a:LP-DIR-T	hargrave 2016-06-10 10:54:48	LP-DIR-T:DE-BFL:DA-DIR-TILT	pmagpy-3.4.1	473	348	K		3	LOW	u	129.4	298.6	l	g	54.4	17.4	4	100
-	This study	unknown	Z88.1	Z88	Z88.1a	Z88.1a:LP-DIR-T	hargrave 2016-06-10 10:54:48	LP-DIR-T:DE-BFL:DA-DIR-TILT	pmagpy-3.4.1	748	623	K		3	MID	u	48.5	335.6	l	g	-52.6	19.5	4	100
+	This study	unknown	Z88.1	Z88	Z88.1a	Z88.1a:LP-DIR-T	hargrave 2016-06-10 10:54:48	LP-DIR-T:DE-BFL:DA-DIR-TILT	pmagpy-3.4.1	748	623	K		3	MID	u	48.5	335.6	l	b	-52.6	19.5	4	100
 	This study	unknown	Z88.1	Z88	Z88.1a	Z88.1a:LP-DIR-T	hargrave 2016-06-10 10:54:48	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	pmagpy-3.4.1	903	863	K		3	HEM	u	0.0	59.4	l	g	-44.5	1.7	3	100
 	This study	unknown	Z88.2	Z88	Z88.2a	Z88.2a:LP-DIR-T	hargrave 2016-06-10 10:56:20	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.1	473	348	K		3	LOW	u	132.1	225.9	l	g	76.5	6.1	4	-1
 	This study	unknown	Z88.2	Z88	Z88.2a	Z88.2a:LP-DIR-T	hargrave 2016-06-10 10:56:20	LP-DIR-T:DE-BFL:DA-DIR	pmagpy-3.4.1	823	698	K		3	MID	u	13.3	356.4	l	g	-50.6	3.7	8	-1
